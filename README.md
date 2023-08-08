@@ -10,4 +10,4 @@
 #
 # Website Link :
 ------------------------
-- https://eng-m-ma9dy.github.io/DevFolio/
+- https://eng-m-ma9dy.github.io/John/
